@@ -3,10 +3,6 @@
 <h1 align="center">Hi 👋, I'm M.Tamil Prabaharan</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tamil-prabaharan&label=Profile%20views&color=0e75b6&style=flat" alt="tamil-prabaharan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamil-prabaharan" alt="tamil-prabaharan" /></a> </p>
-
 - 🔭 I’m currently working on **sticky notepad**
 
 - 🌱 I’m currently learning **mern stack**
@@ -28,4 +24,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamil-prabaharan&show_icons=true&locale=en&layout=compact" alt="tamil-prabaharan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamil-prabaharan&show_icons=true&locale=en" alt="tamil-prabaharan" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tamil-prabaharan&label=Profile%20views&color=0e75b6&style=flat" alt="tamil-prabaharan" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamil-prabaharan" alt="tamil-prabaharan" /></a> </p>
 
