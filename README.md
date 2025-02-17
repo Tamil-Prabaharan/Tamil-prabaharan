@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tamil-prabaharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tamil-prabaharan" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/tamilprabhu" target="blank"><img align="center" src="[https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg](https://cdn.codechef.com/images/cc-logo.svg)" alt="https://www.codechef.com/users/tamilprabhu" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/tamilprabhu" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="https://www.codechef.com/users/tamilprabhu" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/tamilprabaharancivil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/tamilprabaharancivil/" height="30" width="40" /></a>
 </p>
 
